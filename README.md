@@ -7,19 +7,19 @@ This project analyzes sales data to provide insights into revenue trends, produc
 ```
 project_directory/
 │
-├── data/                   # Directory for raw data files
+├── data/                   
 │   └── sales_data.csv      # Sample sales data
 │
-├── notebooks/              # Optional Jupyter notebooks for exploratory analysis
+├── notebooks/              
 │   └── analysis.ipynb      # Notebook with additional exploration
 │
-├── output/                 # Directory for generated results
+├── output/                 
 │   └── figures/            # Directory for saved plots and graphs
 │
-├── src/                    # Source code directory
+├── src/                    
 │   └── main.py             # Main Python script for data analysis
 │
-├── README.md               # Project description
+├── README.md               
 └── requirements.txt        # Required Python libraries
 ```
 
